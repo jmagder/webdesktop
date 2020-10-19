@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4a76347b.chunk.css",
+    "main.js": "./static/js/main.e41e74a3.chunk.js",
+    "main.js.map": "./static/js/main.e41e74a3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.fbaeaec2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.fbaeaec2.js.map",
+    "static/js/2.270a3172.chunk.js": "./static/js/2.270a3172.chunk.js",
+    "static/js/2.270a3172.chunk.js.map": "./static/js/2.270a3172.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.36d79f6371ab9b2425a623b4c8de151e.js": "./precache-manifest.36d79f6371ab9b2425a623b4c8de151e.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.4a76347b.chunk.css.map": "./static/css/main.4a76347b.chunk.css.map",
+    "static/js/2.270a3172.chunk.js.LICENSE.txt": "./static/js/2.270a3172.chunk.js.LICENSE.txt",
+    "static/media/bar-chart.svg": "./static/media/bar-chart.dd2a9f47.svg",
+    "static/media/note.svg": "./static/media/note.87c9d851.svg",
+    "static/media/pie-chart.svg": "./static/media/pie-chart.19c1944f.svg",
+    "static/media/settings.svg": "./static/media/settings.4f698a14.svg",
+    "static/media/start.svg": "./static/media/start.825e1d13.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbaeaec2.js",
+    "static/js/2.270a3172.chunk.js",
+    "static/css/main.4a76347b.chunk.css",
+    "static/js/main.e41e74a3.chunk.js"
+  ]
+}
